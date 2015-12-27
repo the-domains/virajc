@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[VirajC]]></title>
+        <description><![CDATA[VirajC]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 27 Dec 2015 08:32:01 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[An Advertising Man]]></title>
+            <description><![CDATA[<article><h1>An Advertising Man</h1><p>I am an Advertising Man. I write long copy on short deadlines and pick smart words for small headlines. Doing proactive, hyperactive and sometimes inactive work, I'm just a simple guy who writes complex sentences while giving big ideas to small brands. A quick-thinking slowpoke with a sharp wit and a soft heart, easily selling everything from lotions to potions. A tea-drinking, cigarette-smoking and occasionally party-loving wallflower who's left handed but right up front. A tall guy with big dreams and small needs, a geek who's hi-tech but low maintenance with a musical soul and a writer's heart. Born in the body of a peace loving urban hippie with a penchant for obscure bands and popular art. Just a writer by day and a gamer by night, rhyming all the time and being accidentally creative surprisingly often.</p></article>]]></description>
+            <link>undefinedan-advertising-man/index.html</link>
+            <guid isPermaLink="false">425a36cc-9ade-42e7-8be6-4e5e5d03a643</guid>
+            <pubDate>Sun, 27 Dec 2015 08:31:55 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
