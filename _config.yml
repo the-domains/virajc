@@ -1,0 +1,28 @@
+name: VirajC
+favicon: null
+layout_spectrum: 0.6256587072275579
+typography_spectrum: 0.8118655392900109
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.2763434380758554
+  lightness: 0.7263354945462197
+  saturation: 0.37125167273916304
+  rhythmicContrast: 0.9868521492462605
+purpose: []
