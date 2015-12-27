@@ -2,14 +2,27 @@
     <channel>
         <title><![CDATA[VirajC]]></title>
         <description><![CDATA[VirajC]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/virajc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Dec 2015 08:32:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 27 Dec 2015 08:38:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/virajc/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/virajc/0f9a69d0-2284-4592-a44e-81d9c1a58808/index.html</link>
+            <guid isPermaLink="false">0f9a69d0-2284-4592-a44e-81d9c1a58808</guid>
+            <pubDate>Sun, 27 Dec 2015 08:38:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea91eb0e-9de9-4543-9f4d-9170c3e0dc23.png">]]></description>
+            <link>https://thegrid.ai/virajc/0134e8d9-e042-4f9f-80b1-90fcb1505968/index.html</link>
+            <guid isPermaLink="false">0134e8d9-e042-4f9f-80b1-90fcb1505968</guid>
+            <pubDate>Sun, 27 Dec 2015 08:35:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[An Advertising Man]]></title>
             <description><![CDATA[<article><h1>An Advertising Man</h1><p>I am an Advertising Man. I write long copy on short deadlines and pick smart words for small headlines. Doing proactive, hyperactive and sometimes inactive work, I'm just a simple guy who writes complex sentences while giving big ideas to small brands. A quick-thinking slowpoke with a sharp wit and a soft heart, easily selling everything from lotions to potions. A tea-drinking, cigarette-smoking and occasionally party-loving wallflower who's left handed but right up front. A tall guy with big dreams and small needs, a geek who's hi-tech but low maintenance with a musical soul and a writer's heart. Born in the body of a peace loving urban hippie with a penchant for obscure bands and popular art. Just a writer by day and a gamer by night, rhyming all the time and being accidentally creative surprisingly often.</p></article>]]></description>
-            <link>undefinedan-advertising-man/index.html</link>
+            <link>https://thegrid.ai/virajc/an-advertising-man/index.html</link>
             <guid isPermaLink="false">425a36cc-9ade-42e7-8be6-4e5e5d03a643</guid>
             <pubDate>Sun, 27 Dec 2015 08:31:55 GMT</pubDate>
         </item>
